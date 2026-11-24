@@ -1,0 +1,28 @@
+Employee's Dataset,,,,,,,,
+,,,,,,,,
+Employee_ID,First_Name,Last_Name,Department,Gender,Age,Salary ($),Employee_Status,Position
+ID-001,John ,Doe,IT,Male,33,4000,Active,Senior Data Analyst
+ID-002,Sarah ,Smith,HR,Female,45,4500,Active,HR Supervisor
+ID-003,Chidera,Ezenwosu,IT,Male,26,3500,Active,Junior Data Analyst
+ID-004,Michael ,Brown,Finance,Male,40,4000,Active,Accountant
+ID-005,Emily,Davis,Marketing,Female,43,2500,Active,Content Writer
+ID-006,David,Wilson,Supply Chain,Male,36,3000,Active,Inventory Officer
+ID-007,Jessica,Miller,IT,Female,27,4000,Active,Ai engineer
+ID-008,Daniel ,Moore,Marketing,Male,46,7000,Active,Marketing Manager
+ID-009,James ,anderson,Finance,Male,33,4500,Active,Financial Analyst
+ID-010,Lily ,Hall,IT,Female,32,4500,On Leave,Network Administrator
+ID-011,Samuel,Allen,Operations,Male,22,1500,Active,Intern
+ID-012,Charlotte,Robinson,Finance,Female,36,2600,Active,Account Officer
+ID-013,Chima,Bassey,IT,Male,49,6500,Active,IT Manager
+ID-014,Mesochukwu,Udoh,HR,Male,43,5000,Active,HR Supervisor
+ID-015,MIa,Garcer,Marketing,Female,36,4500,Active,Marketing Assistant
+ID-016,Lucas ,Thompson,Finance,Male,45,7000,Active,Finance Manager 
+ID-017,Ava,White,IT,Female,33,8000,Active,Database Manager
+ID-018,Uche,Ezenwosu,Finance,Male,38,7000,Active,Auditor
+ID-019,Ekwutosi,Ezenwosu,Finance,Female,43,4600,Active,Banker
+ID-020,Olivia ,Taylor,Operations,Female,44,6000,Active,Operations Manager
+ID-021,Matthew,Walker,Operations,Male,46,6500,Active,Operations Coordinator
+ID-022,Sarah ,Willis,Supply Chain,Female,28,3600,Active,Supply Chain Assistant
+ID-023,Issabella ,Martin,Legal,Female,38,4500,Active,Junior Attorney
+ID-024,William,Jackson,Legal,Male,33,4500,Resigned,Junior Attorney
+ID-025,Alexander,Clark,Marketing ,Male,51,7000,Active,Senior Marketing Manager

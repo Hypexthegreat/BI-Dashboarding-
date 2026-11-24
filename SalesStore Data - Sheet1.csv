@@ -1,0 +1,33 @@
+SalesStore,,,,,,,
+,,,,,,,
+Product ID,Product Name,Product Category,Qty,Cost Price,Sales Price,Profit,Sales
+101,HP Notebook,Electronics,4,1300000,1500000,200000,6000000
+102,Apple Iphone18 Pro,Electronics,12,1400000,1600000,200000,19200000
+103,Samsung Galaxy Tablet,Electronics,6,800000,850000,50000,5100000
+104,Dell keyboard,Electronics,8,15000,16000,1000,128000
+105,Sony Smart Ultra 4k Television,Electronics,9,2000000,2200000,200000,19800000
+106,Office Chair,Furniture,20,30000,35000,5000,700000
+107,LG Refrigerator,Home Appliances,10,300000,320000,20000,3200000
+108,Nike Air Max,Footwear,20,45000,50000,5000,1000000
+109,Casio Wristwatch,Fashion & Accessories,15,35000,40000,5000,600000
+110,Dell Inspirion 15,Electronics,5,1000000,1200000,200000,6000000
+111,Binatone Electric Blender,Home Appliances,12,15000,17000,2000,204000
+112,Hisense Air Conditioner,Home Appliances,20,80000,85000,5000,1700000
+113,Quasa Standing fan,Home Appliances,30,10000,12000,2000,360000
+114,Addidas Superstar sneakers,Footwear,25,30000,35000,5000,875000
+115,Haier Thermocool Deep freezer,Home Appliances,16,160000,180000,20000,2880000
+116,Levi's Denim men's pants,Clothing & Fashion,20,25000,30000,5000,600000
+117,Dangote Sugar,Food & Beverages,50,5000,6000,1000,300000
+118,Nivea Body lotion,Personal Care & Beauty,12,15000,18000,3000,216000
+119,Rexona Deodrant,Personal Care & Beauty,15,3000,3500,500,52500
+120,Cerave Facewash,Personal Care & Beauty,14,8000,8500,500,119000
+121,,,,,,,0
+122,,,,,,,0
+123,,,,,,,0
+124,,,,,,,0
+125,,,,,,,0
+126,,,,,,,0
+127,,,,,,,0
+128,,,,,,,0
+129,,,,,,,0
+130,,,,,,,0
